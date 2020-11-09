@@ -1,4 +1,5 @@
 import time
+# CHANGES 2.0
 def difference(morning_hour, evening_hour):
     variants = ""
     local_hour = time.localtime().tm_hour
