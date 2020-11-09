@@ -1,7 +1,7 @@
 import time
 import bot_vk
 import diff
-
+# CHANGES 2.0
 morning_hour = 8
 evening_hour = 19
 
